@@ -46,10 +46,11 @@ Constraints
 Input :
 
       0882134215 0882134333 08992134215 0558123 3333 1
-      http://softuni.bg http://youtube.com http://www.g00gle.com	Calling... 0882134215
+      http://softuni.bg http://youtube.com http://www.g00gle.com	
       
 Output:
 
+      Calling... 0882134215
       Calling... 0882134333
       Calling... 08992134215
       Calling... 0558123
@@ -62,10 +63,11 @@ Output:
 Input :
 
       0884542465 0895321654 25632 06014532 123
-      http://softuni.bg http://www.g00gle.com http://facebook.com 	Calling... 0884542465
+      http://softuni.bg http://www.g00gle.com http://facebook.com 
       
 Output:
 
+      Calling... 0884542465
       Calling... 0895321654
       Calling... 25632
       Calling... 06014532
